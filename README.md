@@ -1,13 +1,3 @@
-> College LaSalle
->
-> Project - Oriented Object Programming
-
-User and Technical Manual
-
-> Presented to: Juan Dario Silva Rodriguez.
->
-> Juan Dario Silva Rodriguez:............\
-> 12/6/2021
 
 **A.Start by adding a short description of your project, and the
 languages (technologies) used:**
